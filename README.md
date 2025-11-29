@@ -10,12 +10,6 @@ https://colab.research.google.com/github/nikhil1728/OTT_Analysis/blob/main/OTT_A
 
 ---
 
-## 👤 Author
-**Nikhil Somisetty**  
-📅 **Date:** March 18, 2025
-
----
-
 ## 🎯 Business Objective
 - Understand Netflix’s content distribution across formats and regions  
 - Compare Movies vs TV Shows production trends  
@@ -109,3 +103,8 @@ This transformation significantly expanded the dataset and enabled accurate biva
 ## ✅ Project Outcome
 This project demonstrates how structured EDA can convert raw OTT data into **actionable insights**, enabling better decisions around **content production, regional expansion, and release strategy**.
 
+## 👤 Author
+**Nikhil Somisetty**  
+📅 **Date:** March 18, 2025
+
+---
