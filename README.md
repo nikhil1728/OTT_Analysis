@@ -1,4 +1,5 @@
-# 🎬 Netflix OTT Data Analysis | Exploratory Data Analysis & Visualization
+<h1 align="center"> 🎬 Netflix OTT Data Analysis 
+<h1 align="center">Exploratory Data Analysis & Visualization
 
 ## 📌 Project Overview
 This project performs an in-depth **exploratory data analysis (EDA)** on Netflix’s content catalog to uncover meaningful insights that can help streaming platforms make **data-driven business decisions**.  
