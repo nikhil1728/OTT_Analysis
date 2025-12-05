@@ -6,7 +6,7 @@ This project performs an in-depth **exploratory data analysis (EDA)** on Netflix
 The analysis explores content trends across **movies and TV shows**, geographical markets, genres, release timelines, and contributor patterns (actors/directors).
 
 🔗 **Google Colab Notebook:**  
-https://colab.research.google.com/github/nikhil1728/OTT_Analysis/blob/main/OTT_Analysis.ipynb
+https://colab.research.google.com/drive/1Cy1TbxQmOQX5p6hzM7l21bB7bnXh-4Ky
 
 ---
 
